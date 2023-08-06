@@ -1,2 +1,3 @@
 # bpa_eco_website
-Our Team's website for Website Development Team for BPA 2021-2022
+My python code for website for BPA regional contest 2022-2023.
+I came in second place with this program. I got docked points for incorrectly using recursion in the program. 
