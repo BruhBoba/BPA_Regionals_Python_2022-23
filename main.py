@@ -1,5 +1,3 @@
-#00058855
-
 #imports the random module
 import random
 
